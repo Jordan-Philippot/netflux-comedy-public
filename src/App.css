@@ -1,0 +1,12 @@
+body{
+  background-color: #181818;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+ 
+}
+a:hover{
+  text-decoration: underline;
+}
+
